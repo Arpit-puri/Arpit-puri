@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-arpit-puri.vercel.app/](https://portfolio-arpit-puri.vercel.app/)
 
-- 📫 How to reach me **puriarpit6265@gmail.com**
+- 📫 How to reach me **arpit.puri6265@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
